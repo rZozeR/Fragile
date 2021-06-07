@@ -1,7 +1,7 @@
 This is a project I made for a game development company "Panteon".
 It includes the complete Unity file and the game file.
 Most 3D assets are provided by them and not made by me.
-Other remaining features are all made by me in a span of two weeks.
+Other remaining features are all made by me the span of 10 days.
 
 Screenshots:
 ![1](https://user-images.githubusercontent.com/45128545/121053867-77a8ca00-c7c4-11eb-8622-40cb9cf8a7c8.png)
